@@ -144,9 +144,9 @@ background-color: var(--warning-Color);
 .formft4wqz7r3sf h2 {
     font-size: 35px;
 }
-.formft4wqz7r3sf .btn-outline-secondary,
-.formft4wqz7r3sf .btn-outline-secondary:hover,
-.formft4wqz7r3sf .btn-outline-secondary:not(:disabled):not(.disabled):active{
+.formft4wqz7r3sf .btn-primary,
+.formft4wqz7r3sf .btn-primary:hover,
+.formft4wqz7r3sf .btn-primary:not(:disabled):not(.disabled):active{
 color: var(--main-Background-Color); 
 border-color: var(--warning-Color);
 background-color: var(--warning-Color);
