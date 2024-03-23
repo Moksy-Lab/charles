@@ -119,6 +119,9 @@ background-color: var(--warning-Color);
     font-size: var(--heading-two);
     margin-top: 10px;
 }
+.teamtmi4xt29bn1 strong {
+    font-weight: 500 !important;
+}
 /* bannerb9aaf5d9db46220bf */
 .bannerb9aaf5d9db46220bf .background{
     padding: 200px;
@@ -129,8 +132,66 @@ background-color: var(--warning-Color);
 .bannerb9aaf5d9db46220bf h2 {
     font-size: var(--heading);
 }
-
-
-
-
-
+.bannerb9aaf5d9db46220bf .button,
+.bannerb9aaf5d9db46220bf .button:hover{
+    color: var(--secondary-Background-Color);
+    background-color: var(--primary-Color);
+    border-color: var(--primary-Color);
+    padding: var(--button-padding);
+    font-weight: var(--button-font-weight);
+}
+/* formft4wqz7r3sf */
+.formft4wqz7r3sf h2 {
+    font-size: 35px;
+}
+.formft4wqz7r3sf .btn-outline-secondary,
+.formft4wqz7r3sf .btn-outline-secondary:hover,
+.formft4wqz7r3sf .btn-outline-secondary:not(:disabled):not(.disabled):active{
+color: var(--main-Background-Color); 
+border-color: var(--warning-Color);
+background-color: var(--warning-Color);
+}
+/* testimonialtmrwms6esfu */
+.testimonialtmrwms6esfu .fdb-block .fdb-box{
+    padding: 2.75rem 2.5rem;
+}
+/* quoteb1b4a5dbe8b0424f */
+.quoteb1b4a5dbe8b0424f .subscribe-area {
+    background-image: linear-gradient(to left, var(--success-Color) 0%, var(--alert-Color) 100%);
+}
+.quoteb1b4a5dbe8b0424f .subscribe-text span {
+    font-size: 16px;
+    font-weight: var(--button-font-weight);
+    color: var(--black-Color);
+    letter-spacing: 4px;
+}
+.quoteb1b4a5dbe8b0424f .subscribe-text h2{
+    color: var(--black-Color);
+    font-size: 36px;
+    font-weight: var(--button-font-weight);
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+.quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form input:focus-visible{
+    outline: none;
+}
+.quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form button,
+.quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form button:hover{
+    background: var(--secondary-Background-Color);
+    color: var(--black-Color);
+}
+/* foskaftskeh59j2o */
+.foskaftskeh59j2o .fdb-block {
+    background-color: var(--secondary-Background-Color);
+}
+.foskaftskeh59j2o a {
+    font-weight: var(--button-font-weight);
+    color: var(--black-Color);
+}
+.foskaftskeh59j2o .btn-outline-secondary,
+.foskaftskeh59j2o .btn-outline-secondary:hover,
+.foskaftskeh59j2o .btn-outline-secondary:not(:disabled):not(.disabled):active{
+color: var(--main-Background-Color); 
+border-color: var(--primary-Color);
+background-color: var(--primary-Color);
+}
