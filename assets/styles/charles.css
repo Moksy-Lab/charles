@@ -188,9 +188,9 @@ background-color: var(--warning-Color);
     font-weight: var(--button-font-weight);
     color: var(--black-Color);
 }
-.foskaftskeh59j2o .btn-outline-secondary,
-.foskaftskeh59j2o .btn-outline-secondary:hover,
-.foskaftskeh59j2o .btn-outline-secondary:not(:disabled):not(.disabled):active{
+.foskaftskeh59j2o .btn-primary,
+.foskaftskeh59j2o .btn-primary:hover,
+.foskaftskeh59j2o .btn-primary:not(:disabled):not(.disabled):active{
 color: var(--main-Background-Color); 
 border-color: var(--primary-Color);
 background-color: var(--primary-Color);
