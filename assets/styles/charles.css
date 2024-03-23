@@ -22,7 +22,7 @@
     --main-Background-Color: #FFFFFF;
     --secondary-Background-Color:#E5E7EB ;
     --secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 11px 30px;
+    --button-padding: 16px;
     --button-border-radius: 6px;
     --button-font-weight: 500;
     --heading: 35px;
@@ -39,6 +39,36 @@
 .aboutd1e3f52aae36e7047 .DescriptionHeading {
     font-size: 62px;
 }
+.aboutd1e3f52aae36e7047 .DescriptionPara{
+    display: none;
+}
+.aboutd1e3f52aae36e7047 .btn-outline-secondary,
+.aboutd1e3f52aae36e7047 .btn-outline-secondary:hover,
+.aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active{
+color: var(--main-Background-Color); 
+border-color: var(--warning-Color);
+background-color: var(--warning-Color);
+}
+/* calltoactioncaiqjccw4ir */
+.calltoactioncaiqjccw4ir .fdb-block {
+    padding: 0rem 0;
+    padding-bottom: 4em;
+}
+.calltoactioncaiqjccw4ir h1 {
+    font-size: var(--heading);
+}
+.calltoactioncaiqjccw4ir .btn-primary,
+.calltoactioncaiqjccw4ir .btn-primary:hover,
+.calltoactioncaiqjccw4ir .btn-primary:not(:disabled):not(.disabled):active{
+    color: var(--secondary-Background-Color);
+    background-color: var(--primary-Color);
+    border-color: var(--primary-Color);
+    padding: var(--button-padding);
+    font-weight: var(--button-font-weight);
+}
+
+
+
 
 
 
